@@ -1,2 +1,3 @@
 Моя работа с нейросетбю для распознавания пневмонии.  
-Оригинальный датасет: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Оригинальный датасет: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia  
+В планах улучшение точности. Для начала с использованием предобученных моделей.
